@@ -1,0 +1,12 @@
+# Site settings
+title: Lime Robot Software
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  Lime Robot - Custom Software Development
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://limerobotsoftware.com" # the base hostname & protocol for your site
+twitter_username: lime_robot
+github_username:  limerobot
+
+# Build settings
+markdown: kramdown
