@@ -8,6 +8,7 @@ url: "http://limerobotsoftware.com" # the base hostname & protocol for your site
 twitter_username: lime_robot
 facebook_username: LimeRobot
 github_username:  limerobot
+google_username: 
 
 # Build settings
 markdown: kramdown
