@@ -8,7 +8,7 @@ date-url: https://play.google.com/store/apps/details?id=com.kroger.mobile
 img: kroger-app.png
 thumbnail: kroger-app-thumbnail.png
 alt: image-alt
-project-date: July 2012
+project-date: November 2014
 client: The Kroger Company
 client-url: https://www.kroger.com
 category: Android App
