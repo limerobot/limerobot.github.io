@@ -1,4 +1,4 @@
-url: https://limerobot.github.io
+url: http://www.limerobotsoftware.com
 baseurl: ""
 
 # Site settings
@@ -32,7 +32,7 @@ social:
   - title: facebook
     url: https://www.facebook.com/LimeRobot
   - title: google-plus
-    url: https://plus.google.com/104783130329480509358
+    url: https://plus.google.com/+LimeRobotSoftware
   - title: bitbucket 
     url: https://bitbucket.org/limerobot
   - title: github
