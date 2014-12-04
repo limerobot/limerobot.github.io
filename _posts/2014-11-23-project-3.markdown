@@ -1,0 +1,17 @@
+---
+title: Sporty's Study Buddy App (Private Pilot)
+subtitle: Android App
+layout: default
+modal-id: 3
+date: 2014-11-23
+date-url: https://play.google.com/store/apps/details?id=com.sportys.android.studybuddy.pvt
+img: sportys-sb-pvt.jpg
+thumbnail: sportys-sb-pvt-thumbnail.jpg
+alt: image-alt
+project-date: April 2011
+client: Sporty's Pilot Shop
+client-url: https://www.sportys.com/Pilotshop
+category: Android App
+description: Sporty's Study Buddy will prepare you for the FAA Private Pilot written test like no other study tool available through three modes of operation - learning mode, simulated tests and flashcards.
+
+---

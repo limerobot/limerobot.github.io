@@ -1,12 +1,47 @@
+url: http://www.limerobotsoftware.com
+baseurl: ""
+
 # Site settings
 title: Lime Robot Software
-email: 
-description: > # this means to ignore newlines until "baseurl:"
-  Lime Robot - Custom Software Development
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://limerobotsoftware.com" # the base hostname & protocol for your site
-twitter_username: lime_robot
-github_username:  limerobot
+email: limerobotsoftware@gmail.com
+description: "Lime Robot - custom software development"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 5d8749
+  secondary: 6d935b  
+  secondary-dark: 333
+
+# Team names, titles and social links
+#people:
+#- name: Kay Garland
+#  pic: 1
+#  position: Lead Designer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: stack-overflow
+#      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/lime_robot
+  - title: facebook
+    url: https://www.facebook.com/LimeRobot
+  - title: google-plus
+    url: https://plus.google.com/+LimeRobotSoftware
+  - title: bitbucket 
+    url: https://bitbucket.org/limerobot
+  - title: github
+    url: https://github.com/limerobot
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Mason, OH 45040
 
 # Build settings
 markdown: kramdown
+permalink: pretty

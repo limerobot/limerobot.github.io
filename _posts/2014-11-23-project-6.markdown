@@ -1,0 +1,17 @@
+---
+title: Kroger Mobile App
+subtitle: Android App
+layout: default
+modal-id: 6
+date: 2014-11-23
+date-url: https://play.google.com/store/apps/details?id=com.kroger.mobile
+img: kroger-app.png
+thumbnail: kroger-app-thumbnail.png
+alt: image-alt
+project-date: November 2014
+client: The Kroger Company
+client-url: https://www.kroger.com
+category: Android App
+description: Simplify your shopping with the Kroger mobile app for Android.
+
+---
