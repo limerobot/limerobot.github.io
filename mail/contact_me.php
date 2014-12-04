@@ -1,4 +1,13 @@
 <?php
+// Check for valid referer
+$allowed_host = 'limerobotsoftware.com';
+$host = parse_url($_SERVER['HTTP_REFERER'], PHP_URL_HOST);
+
+if(substr($host, 0 - strlen($allowed_host)) != $allowed_host) {
+	echo "No email for you, $host!";
+	return false;
+} 
+
 // Check for empty fields
 if(empty($_POST['name'])  		||
    empty($_POST['email']) 		||
